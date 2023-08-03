@@ -139,6 +139,7 @@ export function Sessions() {
               type="button"
               onClick={() => setDay("All")}
               className="btn-oval"
+              data-cy={"AllSessions"}
             >
               All Sessions
             </button>

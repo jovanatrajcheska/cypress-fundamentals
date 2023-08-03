@@ -1,0 +1,58 @@
+{
+    "data": {
+   "intro": [
+     {
+       "id": "78170",
+       "title": "Cypress 9 Fundamentals",
+       "startsAt": "8:30",
+       "day": "Friday",
+       "room": "Jupiter",
+       "level": "Introductory and overview",
+       "speakers": [
+         {
+           "id": "205070",
+           "name": "Roberto Moore",
+           "__typename": "Speaker"
+         }
+       ],
+       "__typename": "Session"
+     } 
+   ],
+    "intermediate": [
+     {
+       "id": "85324",
+       "title": " Secure Programming for the Enterprise",
+       "startsAt": "8:00",
+       "day": "Friday",
+       "room": "Europa",
+       "level": "Intermediate",
+       "speakers": [
+         {
+           "id": "108090",
+           "name": "Jean Ryan",
+           "__typename": "Speaker"
+         }
+       ],
+       "__typename": "Session"
+     }
+   ],
+   "advanced": [
+     {
+       "id": "84969",
+       "title": "Automation: A Deep Dive into Jenkins",
+       "startsAt": "8:00",
+       "day": "Friday",
+       "room": "Saturn",
+       "level": "Advanced",
+       "speakers": [
+         {
+           "id": "605010",
+           "name": "Brandy Terry",
+           "__typename": "Speaker"
+         }
+       ],
+       "__typename": "Session"
+     }
+   ]
+ }
+}
